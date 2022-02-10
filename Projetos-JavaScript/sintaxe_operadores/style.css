@@ -1,0 +1,40 @@
+body{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;    
+    max-width: 900px;
+    margin: auto;
+    background-color: bisque;
+    
+   
+
+}
+
+img{
+
+    position: absolute; left: 50px;
+    margin-top: 50px;
+    
+}
+
+div{
+
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 100px;
+    box-sizing: border-box;
+    
+    box-shadow: 5px 10px gray;
+    
+    
+}
+
+footer{
+    margin-bottom: 20px;
+
+    align-items: center;
+
+
+}

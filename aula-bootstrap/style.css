@@ -1,0 +1,52 @@
+.navbar{
+      background-color: #185F14;
+      font-size: 20px;
+      
+      
+      
+      
+      
+    }
+
+.quemsomos{
+    background-color: black;
+    color: white;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+p{
+    text-align: justify;
+}
+
+h4{
+    text-align: center;
+}
+
+
+.parceiros{
+
+    background-image:linear-gradient( rgba(200,200,200,.8) 100%,rgba(200,200,200,.8) 100%), url(img/code.jpg);
+    background-size: 100%; 
+    background-attachment: fixed;
+   
+}
+
+
+
+.desenvolvido{
+    background-color: black;
+    color: white;
+}
+
+.imagem{
+
+    border: solid gray;
+}
+.servicos{
+   
+}

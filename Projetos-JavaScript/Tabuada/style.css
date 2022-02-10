@@ -1,0 +1,16 @@
+body{
+    
+    display: flex;
+    max-width: 800px;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    margin-top: 60px;
+
+
+}
+
+p{
+    display: inline;
+}
+
