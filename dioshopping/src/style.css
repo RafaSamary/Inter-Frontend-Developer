@@ -1,0 +1,21 @@
+
+
+
+body{
+     
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    background-image: url('./background.jpg');
+    
+    
+}
+
+div.MuiPaper-root {
+
+   background-color: transparent;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: white;
+
+}
+
